@@ -1,1 +1,1 @@
-pub mod leetcode;
+pub mod easy;
