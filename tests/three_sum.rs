@@ -1,7 +1,7 @@
 
 #[cfg(test)]
 mod tests {
-    use leetcode::easy::three_sum::*;
+    use leetcode::three_sum::*;
 
     #[test]
     fn test_1() {

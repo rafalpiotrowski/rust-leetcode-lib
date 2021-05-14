@@ -1,7 +1,7 @@
 
 #[cfg(test)]
 mod tests {
-    use leetcode::easy::reverse_integer::*;
+    use leetcode::reverse_integer::*;
 
     #[test]
     fn test_1() {

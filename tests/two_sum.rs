@@ -1,6 +1,6 @@
 #[cfg(test)]
 mod tests {
-    use leetcode::easy::two_sum::*;
+    use leetcode::two_sum::*;
 
     #[test]
     fn test1() {

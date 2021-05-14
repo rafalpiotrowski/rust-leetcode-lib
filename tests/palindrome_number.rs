@@ -1,7 +1,7 @@
 
 #[cfg(test)]
 mod tests {
-    use leetcode::easy::palindrome_number::*;
+    use leetcode::palindrome_number::*;
 
     #[test]
     fn test_1() {

@@ -1,7 +1,7 @@
 
 #[cfg(test)]
 mod tests {
-    use leetcode::easy::roman_to_int::*;
+    use leetcode::roman_to_int::*;
 
     #[test]
     fn test_1() {
