@@ -25,6 +25,7 @@ pub fn add_binary(a: String, b: String) -> String {
 
     let mut result:Vec<u8> = vec!();
 
+    
 
     todo!();
 }
