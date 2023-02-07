@@ -1,7 +1,7 @@
 
 #[cfg(test)]
 mod tests {
-    use leetcode::implement_strStr::*;
+    use leetcode::implement_str_str::*;
 
     #[test]
     fn test_1() {
